@@ -28,7 +28,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi, my name is Sihong He, currently a 4th-year Ph.D. student at <a href='https://www.cse.uconn.edu'> the Department of Computer Science and Engineering</a>,  <a href='https://uconn.edu'>University of Connecticut</a>, working with Dr. [Fei Miao](http://feimiao.org). Before my Ph.D. journey at UConn, I received my M.S. degree in Statistics at UC Irvine and my B.E. degree in Financial Mathematics at [SUSTech (南方科技大学)](https://math.sustech.edu.cn/?lang=en) which is newly established in 2011 at Shenzhen, China. [(click to read a short story about our university)](https://www.nature.com/articles/nature.2012.10631). 
 
-I enjoy trying new things, learning new knowledge and exploring the frontiers of research (which is also a reason why I studied in three different departments during the past 10 years :blush:). There are several keywords in my research: **Reinforcement Learning, Optimization, Fairness, Uncertainty and Cyber-physical system (CPS)**. 
+I enjoy trying new things, learning new knowledge and exploring the frontiers of research (which is also a reason why I studied in three different departments in the past 10 years :blush:). There are several keywords in my research: **Reinforcement Learning, Optimization, Fairness, Uncertainty and Cyber-physical system (CPS)**. 
 
 
 
