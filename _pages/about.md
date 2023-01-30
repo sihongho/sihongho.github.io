@@ -8,8 +8,9 @@ profile:
   align: left
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  # address: >
-    # <p>371 Fairfield Way, ITE 221,</p>
+  address: >
+    sihong.he@uconn.edu
+# <p>371 Fairfield Way, ITE 221,</p>
     # <p>Storrs, CT 06269-4155</p>
 
 news: true  # includes a list of news items
