@@ -30,7 +30,7 @@ Electric vehicles (EVs) are being rapidly adopted due to their economic and soci
 
 In Autonomous Mobility-on-Demand (AMoD) systems, **self-driving** vehicles provide personal on-demand transportation service for customers and rebalance themselves to maintain acceptable quality of service throughout the system. AMoD systems have been advocated as one of the most promising energy-efficient transportation solutions. What's more, electric vehicle AMoD systems directly address the problems of oil dependency and air pollution.
 
-### Motivation
+### Motivations
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -90,12 +90,12 @@ We evaluate the performance of the designed distributionally robust optimization
 
 The **total balacning cost** of our method is lower than that of the two baseline methods. In particular, the average total balancing cost is reduced by 14.49% compared with the non-robust method and reduced by 7.37% compared with the baseline robust method. 
 
-By using our DRO method, the average **amobility fairness** and **charging fairness**a are improved by 15.78% and 34.51%, respectively, compared to the non-robust method, and improved by 10.45% and 30.92%, respectively, compared to the baseline robust method. 
+By using our DRO method, the average **mobility fairness** and **charging fairness** are improved by 15.78% and 34.51%, respectively, compared to the non-robust method, and improved by 10.45% and 30.92%, respectively, compared to the baseline robust method. 
 
 Our DRO method outperforms the non-robust method because it considers both supply and demand uncertainties when making EV balancing decisions. The DRO problem formulation, uncertainty set construction based on data and equivalent convex optimization form derivation procedures are all designed carefully to solve the challenge in a computationally tractable way. In contrast, the baseline methods in the literature either do not consider model uncertainties such as the non-robust methods, or only consider one type of uncertainty such as the robust optimization method with the demand uncertainty.
 
 
-`You may also be interested in our related publication on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) and ACM Transactions on Cyber-Physical Systems (TCPS):`
+`You may also be interested in our related publications on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) and ACM Transactions on Cyber-Physical Systems (TCPS):`
 
 <div class="publications">
 
