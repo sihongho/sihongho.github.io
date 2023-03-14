@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Autonomous Mobility-on-Demand Systems
+title: Distributionally Robust Optimization for Autonomous Mobility-on-Demand Systems
 description: 
-img: /assets/img/tits2023/amod_60.gif
+img: /assets/img/project_tits2023/amod_60.gif
 importance: 1
-category: work
+category: Optimization+AMoD
 ---
 
-`We are happly to introduce our recent publication on IEEE Transactions on Intelligent Transportation Systems (T-ITS):`
+`We are happly to introduce our recent publication on IEEE Transactions on Intelligent Transportation Systems (TITS):`
 
 ### "Data-Driven Distributionally Robust Electric Vehicle Balancing for Autonomous Mobility-on-Demand Systems under Demand and Supply Uncertainties"
 
@@ -24,7 +24,7 @@ Electric vehicles (EVs) are being rapidly adopted due to their economic and soci
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/amod.gif" title="https://www.youtube.com/watch?v=4B7mZFU2sB4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/amod.gif" title="https://www.youtube.com/watch?v=4B7mZFU2sB4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -34,7 +34,7 @@ In Autonomous Mobility-on-Demand (AMoD) systems, **self-driving** vehicles provi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/fig3.jpg" title="motivation image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/fig3.jpg" title="motivation image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -53,12 +53,12 @@ However, most existing vehicle allocation methods and charging scheduling approa
 ### Framework Structure
 
 <!-- <div align="center">
-<img src="/assets/img/tits2023/fig1.png"  width="90%" height="90%">
+<img src="/assets/img/project_tits2023/fig1.png"  width="90%" height="90%">
 </div> -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/fig1.png" title="motivation image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/fig1.png" title="motivation image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -70,7 +70,7 @@ We evaluate the performance of the designed distributionally robust optimization
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/data.png" title="data image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/data.png" title="data image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -78,13 +78,13 @@ We evaluate the performance of the designed distributionally robust optimization
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/fig8.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/fig8.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/fig9.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/fig9.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tits2023/fig10.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_tits2023/fig10.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -95,13 +95,13 @@ By using our DRO method, the average **mobility fairness** and **charging fairne
 Our DRO method outperforms the non-robust method because it considers both supply and demand uncertainties when making EV balancing decisions. The DRO problem formulation, uncertainty set construction based on data and equivalent convex optimization form derivation procedures are all designed carefully to solve the challenge in a computationally tractable way. In contrast, the baseline methods in the literature either do not consider model uncertainties such as the non-robust methods, or only consider one type of uncertainty such as the robust optimization method with the demand uncertainty.
 
 
-`You may also be interested in our related publications on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) and ACM Transactions on Cyber-Physical Systems (TCPS):`
+`You may also be interested in our related publications on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), AI4ABM Workshop at the International Conference on Learning Representations (ICLR) 2023 and ACM Transactions on Cyber-Physical Systems (TCPS):`
 
 <div class="publications">
 
 {% bibliography -f papers -q @*[key=he2020data]* %}
 
-{% bibliography -f papers -q @*[key=he2022robust]* %}
+{% bibliography -f papers -q @*[key=he2022robust_ai4abm]* %}
 
 {% bibliography -f papers -q @*[key=miao2021data]* %}
 </div>
