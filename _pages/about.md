@@ -24,11 +24,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-[I am on the job market! Please feel free to contact me if you think I could be a good fit. Thank you :)]()
+**I am on the job market! Thank you for providing any recurring information!!!**
 
-Hi, my name is Sihong He, currently a 5th-year Ph.D. student at <a href='https://www.cse.uconn.edu'> the Department of Computer Science and Engineering</a>,  <a href='https://uconn.edu'>University of Connecticut</a>, working with Dr. [Fei Miao](http://feimiao.org). Before my Ph.D. journey at UConn, I received my M.S. degree in Statistics at UC Irvine and my B.E. degree in Financial Mathematics at [SUSTech (南方科技大学)](https://math.sustech.edu.cn/?lang=en) which is newly established in 2011 at Shenzhen, China. [(click to read a short story about our university)](https://www.nature.com/articles/nature.2012.10631). 
+Hi, my name is Sihong He, currently a 5th-year Ph.D. candidate at <a href='https://www.cse.uconn.edu'> the Department of Computer Science and Engineering</a>,  <a href='https://uconn.edu'>University of Connecticut</a>, working with Dr. [Fei Miao](http://feimiao.org). Before my Ph.D. journey at UConn, I received my M.S. degree in Statistics at UC Irvine in 2019 and my B.E. degree in Financial Mathematics in 2017 at [SUSTC (南方科技大学)](https://math.sustech.edu.cn/?lang=en) which is newly established in 2011 at Shenzhen, China. [(click to read a short story about our university)](https://www.nature.com/articles/nature.2012.10631). 
 
-I enjoy trying new things, learning new knowledge and exploring the frontiers of research (which is also a reason why I studied in three different departments in the past 10 years :blush:). There are several keywords in my research: **Reinforcement Learning, Optimization, Fairness, Uncertainty and Cyber-physical system (CPS)**. 
+I enjoy trying new things, learning new knowledge, and exploring the frontiers of research (which is also a reason why I studied in three different departments in the past 10 years :blush:). My research goal is to lay the foundations for the collective intelligence of interconnected CPS, including ensuring efficiency, robustness, safety, and security for applications areas such as intelligent transportation systems, connected autonomous vehicles, and power networks. My research vision is to leverage AI and CPS a force for social good to elevate the quality of life, enhance societal well-being, and create a better future for people. 
+
+So far, my research has focused on robust multi-agent reinforcement learning for robust interconnected CPS, data-driven robust optimization for efficient mobile CPS, and on the security and safety of CPS. In addition to system modeling, theoretical analysis, and algorithm design, my work involves experimental validation of real-world data. My work has been published in prestigious journals and conferences including International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), IEEE Transactions on Intelligent Transportation Systems (TITS), ACM Transactions on Cyber-Physical Systems (TCPS), IEEE Transactions on Mobile Computing (TMC) and Transactions on Machine Learning Research (TMLR).  
 
 
 
@@ -37,17 +39,20 @@ I enjoy trying new things, learning new knowledge and exploring the frontiers of
       <p> <b> </b></p>
       <p> <b>What did I do in my research?</b></p>
       <p>
-        (1) I developed Machine Learning-based and Optimization-based methods for Cyber-physical systems such as Mobility-on-Demand Systems.
+        (1) Construct theoretical frameworks and practical algorithms of learning-based methods for robust and fair interconnected CPS (connected autonomous vehicles, mobility-on-demand systems, Smart grid, etc).
       </p>
       <p>
-        (2) I investigated the Robustness and Fairness issues in Cyber-physical systems.
+        (2) Develop the theory and application of data-driven optimization methods for efficient mobile CPS (autonomous mobility-on-demand systems, autonomous delivery systems, etc).
       </p>
       <p>
-        (3) I proposed general prototype methods and conducted theoretical analysis to address Robustness and Fairness issues.
+        (3) Ensure the safety and security of interconnected CPS through integrated learning and control.
+      </p>
+      <p>
+        <b>!!Open to collaboration!! Please contact me if you are interested in Reinforcement Learning, Optimization, CPS, Federated Learning, GNN, and LLM. Let's do some interesting research together.</b>
       </p>
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research_summary.png" title="research summary image" class="img-fluid" %}
+        {% include figure.html path="assets/img/research_summary.jpg" title="research summary image" class="img-fluid" %}
     </div>
 </div>
 

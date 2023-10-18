@@ -68,17 +68,14 @@
     - year: 2023
       items: 
         - Travel Grant from IROS 2023
-    - year: 2023
-      items: 
         - GE Fellowship for Excellence
-    - year: 2023
-      items: 
+        - Predoctoral Prize for Research Excellence
         - Synchrony Fellowship 
     - year: 2022
       items: 
         - Predoctoral Prize for Research Excellence
         - Doctoral Student Travel Fellowship
-        - Volunteer Award from NeurIPS 2022
+        - Volunteer Award and Travel Grant from NeurIPS 2022
     - year: 2021
       items: 
         - Predoctoral Fellowship
@@ -111,6 +108,9 @@
 - title: Technical Talks
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Oral Presentation at the International Conference on Intelligent Robots and Systems
     - year: 2022
       items: 
         - Oral Presentation at the C2E2 Clean Energy Symposium
