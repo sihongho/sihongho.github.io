@@ -26,9 +26,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 **I am on the job market! Thank you for providing any recurring information!!!**
 
-Hi, my name is Sihong He, currently a 5th-year Ph.D. candidate at <a href='https://www.cse.uconn.edu'> the Department of Computer Science and Engineering</a>,  <a href='https://uconn.edu'>University of Connecticut</a>, working with Dr. [Fei Miao](http://feimiao.org). Before my Ph.D. journey at UConn, I received my M.S. degree in Statistics at UC Irvine in 2019 and my B.E. degree in Financial Mathematics in 2017 at [SUSTC (南方科技大学)](https://math.sustech.edu.cn/?lang=en) which is newly established in 2011 at Shenzhen, China. [(click to read a short story about our university)](https://www.nature.com/articles/nature.2012.10631). 
+Hi, my name is Sihong He, currently a 5th-year Ph.D. candidate at <a href='https://www.cse.uconn.edu'> the Department of Computer Science and Engineering</a>,  <a href='https://uconn.edu'>University of Connecticut</a>, working with Dr. [Fei Miao](http://feimiao.org). Before my Ph.D. journey at UConn, I received my M.S. degree in Statistics at UC Irvine in 2019 and my B.E. degree in Financial Mathematics in 2017 at [SUSTC (南方科技大学)](https://math.sustech.edu.cn/?lang=en) which is newly established in 2011 at Shenzhen, China. [(click to read a short story about our university)](https://www.nature.com/articles/nature.2012.10631). I enjoy trying new things, learning new knowledge, and exploring the frontiers of research (which is also a reason why I studied in three different departments in the past 10 years :blush:). 
 
-I enjoy trying new things, learning new knowledge, and exploring the frontiers of research (which is also a reason why I studied in three different departments in the past 10 years :blush:). My research goal is to lay the foundations for the collective intelligence of interconnected CPS, including ensuring efficiency, robustness, safety, and security for applications areas such as intelligent transportation systems, connected autonomous vehicles, and power networks. My research vision is to leverage AI and CPS a force for social good to elevate the quality of life, enhance societal well-being, and create a better future for people. 
+My research interests include **multi-agent reinforcement learning**, **robust and fair reinforcement learning**, **cyber-physical systems**, and **human-centered computing**. My research goal is to lay the foundations for the collective intelligence of interconnected CPS, including ensuring **efficiency, robustness, safety, and security** for applications areas such as **intelligent transportation systems, connected autonomous vehicles, autonomous delivery systems, and power networks**. My research vision is to leverage AI and CPS a force **for social good** to elevate the quality of life, enhance societal well-being, and create a better future for people. 
 
 
 
@@ -38,13 +38,13 @@ I enjoy trying new things, learning new knowledge, and exploring the frontiers o
       <p> <b> </b></p>
       <p> <b>What did I do in my research?</b></p>
       <p>
-        (1) Construct theoretical frameworks and practical algorithms of learning-based methods for robust and fair interconnected CPS (connected autonomous vehicles, mobility-on-demand systems, Smart grid, etc).
+        (1) Construct theoretical frameworks and practical algorithms of <b>learning-based methods</b> (multi-agent reinforcement learning, deep learning) for robust and fair interconnected CPS (connected autonomous vehicles, mobility-on-demand systems, Smart grid, etc).
       </p>
       <p>
-        (2) Develop the theory and application of data-driven optimization methods for efficient mobile CPS (autonomous mobility-on-demand systems, autonomous delivery systems, etc).
+        (2) Develop the theory and application of <b>data-driven optimization</b> methods for efficient mobile CPS (autonomous mobility-on-demand systems, autonomous delivery systems, etc).
       </p>
       <p>
-        (3) Ensure the safety and security of interconnected CPS through integrated learning and control.
+        (3) Ensure the safety and security of interconnected CPS through <b>integrated learning and control</b>.
       </p>
       <p>
         <b>!!Open to collaboration!! Please contact me if you are interested in Reinforcement Learning, Optimization, CPS, Federated Learning, GNN, and LLM. Let's do some interesting research together.</b>
