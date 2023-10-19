@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: " Explore and Enjoy. "
+subtitle: "AI-enhanced Cyber-Physical Systems"
 
 profile:
   align: left
@@ -30,7 +30,6 @@ Hi, my name is Sihong He, currently a 5th-year Ph.D. candidate at <a href='https
 
 I enjoy trying new things, learning new knowledge, and exploring the frontiers of research (which is also a reason why I studied in three different departments in the past 10 years :blush:). My research goal is to lay the foundations for the collective intelligence of interconnected CPS, including ensuring efficiency, robustness, safety, and security for applications areas such as intelligent transportation systems, connected autonomous vehicles, and power networks. My research vision is to leverage AI and CPS a force for social good to elevate the quality of life, enhance societal well-being, and create a better future for people. 
 
-So far, my research has focused on robust multi-agent reinforcement learning for robust interconnected CPS, data-driven robust optimization for efficient mobile CPS, and on the security and safety of CPS. In addition to system modeling, theoretical analysis, and algorithm design, my work involves experimental validation of real-world data. My work has been published in prestigious journals and conferences including International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), IEEE Transactions on Intelligent Transportation Systems (TITS), ACM Transactions on Cyber-Physical Systems (TCPS), IEEE Transactions on Mobile Computing (TMC) and Transactions on Machine Learning Research (TMLR).  
 
 
 
@@ -57,6 +56,5 @@ So far, my research has focused on robust multi-agent reinforcement learning for
 </div>
 
 
-
-
+So far, my research has focused on robust multi-agent reinforcement learning for robust interconnected CPS, data-driven robust optimization for efficient mobile CPS, and on the security and safety of CPS. In addition to system modeling, theoretical analysis, and algorithm design, my work involves experimental validation of real-world data. My work has been published in prestigious journals and conferences including International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA), IEEE Transactions on Intelligent Transportation Systems (TITS), ACM Transactions on Cyber-Physical Systems (TCPS), IEEE Transactions on Mobile Computing (TMC) and Transactions on Machine Learning Research (TMLR).  
 
