@@ -7,13 +7,13 @@ importance: 1
 category: Robust+MARL
 ---
 
-`We are happly to introduce our recent publication on AI4ABM Workshop at the International Conference on Learning Representations (ICLR) 2023:`
+`We are happly to introduce our recent publication on Transactions on Machine Learning Research (TMLR) 2023:`
 
-### "Robust Multi-Agent Reinforcement Learning Considering State Uncertainties"
+### "Robust Multi-Agent Reinforcement Learning with State Uncertainties"
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[key=he2023robust_ai4abm]* %}
+{% bibliography -f papers -q @*[key=he2023robust_tmlr]* %}
 
 </div>
 

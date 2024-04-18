@@ -13,7 +13,7 @@ category: Optimization+AMoD
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[key=he2023data]* %}
+{% bibliography -f papers -q @*[key=he2023data_tits]* %}
 
 </div>
 
@@ -99,10 +99,13 @@ Our DRO method outperforms the non-robust method because it considers both suppl
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[key=he2020data]* %}
+{% bibliography -f papers -q @*[key=he2020data_iros]* %}
 
-{% bibliography -f papers -q @*[key=he2022robust_ai4abm]* %}
+{% bibliography -f papers -q @*[key=he2023robust_iros_uncertain_state]* %}
 
-{% bibliography -f papers -q @*[key=miao2021data]* %}
+{% bibliography -f papers -q @*[key=he2023robust_iros_uncertain_model]* %}
+
+{% bibliography -f papers -q @*[key=he2023robust_ev_ai4abm]* %}
+
+{% bibliography -f papers -q @*[key=miao2021data_tcps]* %}
 </div>
-

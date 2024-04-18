@@ -7,13 +7,13 @@ importance: 2
 category: MARL+AMoD
 ---
 
-`We are happly to introduce our recent publication on AI4ABM Workshop at the International Conference on Learning Representations (ICLR) 2023:`
+`We are happly to introduce our recent publication on 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS):`
 
-### "A Robust and Constrained Multi-Agent Reinforcement Learning Method for Electric Vehicle Rebalancing in AMoD Systems"
+### "A Robust and Constrained Multi-Agent Reinforcement Learning Electric Vehicle Rebalancing Method in AMoD Systems"
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[key=he2022robust_ai4abm]* %}
+{% bibliography -f papers -q @*[key=he2023robust_iros_uncertain_model]* %}
 
 </div>
 
@@ -187,9 +187,10 @@ other hyper-parameters as that in ROCOMA.
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[key=he2020data]* %}
+{% bibliography -f papers -q @*[key=he2023robust_iros_uncertain_state]* %}
 
-{% bibliography -f papers -q @*[key=he2023data]* %}
+{% bibliography -f papers -q @*[key=he2023data_tits]* %}
 
-{% bibliography -f papers -q @*[key=miao2021data]* %}
+{% bibliography -f papers -q @*[key=miao2021data_tcps]* %}
+
 </div>

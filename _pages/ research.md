@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /projects/
+permalink: /research/
 description: A growing collection of my research projects.
 nav: true
 # nav_order: 2
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <h3>Background</h3>
-<p>In this era of digital transformation and embedded sensors Cyber-Physical Systems (CPS) are playing an increasingly prominent role in industries ranging from transportation to energy and manufacturing. These systems typically involve the tight integration between distributed computational intelligence, communication networks, and the physical world. Their performance and efficiency largely depend on the collaborative efforts of individual entities in the system. In this context, it is important not only to make individual devices smarter, but also to make whole interconnected systems collectively intelligent by complex interaction modeling, cooperative decision-making, self-organization, and human-machine interactivity. For instance, in smart transportation systems, vehicles are no longer mere solitary entities; they make collaborative decisions based on data from surrounding vehicles to prevent collisions or optimize traffic flow. However, due to the increasing model complexity, ever-changing external environments, unpredictable internal dynamics, and high expectations of Collective Intelligence, highly interconnected and integrated CPS pose new challenges and concerns about efficiency, robustness, safety, and security.</p>
+<p>In this era of digital transformation and embedded sensors, Cyber-Physical Systems (CPS) are playing an increasingly prominent role in industries ranging from transportation to energy and manufacturing. These systems typically involve the tight integration between distributed computational intelligence, communication networks, and the physical world. Their performance and efficiency largely depend on the collaborative efforts of individual entities in the system. In this context, it is important not only to make individual devices smarter, but also to make whole interconnected systems collectively intelligent by complex interaction modeling, cooperative decision-making, self-organization, and human-machine interactivity. For instance, in smart transportation systems, vehicles are no longer mere solitary entities; they make collaborative decisions based on data from surrounding vehicles to prevent collisions or optimize traffic flow. However, due to the increasing model complexity, ever-changing external environments, unpredictable internal dynamics, and high expectations of Collective Intelligence, highly interconnected and integrated CPS pose new challenges and concerns about efficiency, robustness, safety, and security.</p>
 
 <h3>Research Theme I: Robust multi-agent reinforcement learning (MARL) for interconnected CPS</h3>
 <p>From uncertain sensing to security risks, from the demands of real-time decisions to coordinating numerous entities, every step contains inherent complexities in interconnected CPS. MARL presents a potential to optimize the collective intelligence of interconnected CPS, due to its ability to handle decentralized decision-making processes, adaptability in dynamic environments, and capacity to leverage shared experiences among agents. However, in real-world applications, the agent may face state uncertainty that may be caused by unavoidable sensor measurement errors, noise, missing information, communication issues, and/or malicious attacks, and suffer from model uncertainty that usually results from the simulation-to-reality gap. These uncertainties pose significant challenges to the efficacy and reliability of MARL algorithms and the complexity of interactions among agents amplifies these uncertainties. It is significant and challenging to develop robust MARL to handle these uncertainties to ensure the performance and reliability of interconnected CPS. My contributions to this theme are:</p>
@@ -20,6 +20,7 @@ horizontal: false
     <li>Significant improvement in different metrics (energy, fairness, profit) in interconnected CPS</li>
 </ul>
 
+**See the following projects about applications and theories of Robust MARL**
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -108,6 +109,7 @@ horizontal: false
     <li>Improvement of EV charging services fairness, mobility services fairness, and profit fairness</li>
 </ul>
 
+**See the following projects about applications and theories of Distributionally Robust Optimization**
 
 <!-- pages/projects.md -->
 <div class="projects">

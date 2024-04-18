@@ -1,8 +1,8 @@
-"IROS2020":
+"IROS 20":
   url: https://www.iros2020.org/
   color: "#00369f"
 
-"IROS2023":
+"IROS 23":
   url: https://ieee-iros.org
   color: "#00369f"
 
@@ -10,7 +10,7 @@
   url: https://jmlr.org/tmlr/
   color: "#00369f"
 
-"ICRA2023":
+"ICRA 23":
   url: https://www.icra2023.org/
   color: "#00369f"
 
@@ -26,6 +26,10 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755
   color: "#00369f"
 
-"AI4ABM":
+"AI4ABM@ICLR":
   url: https://ai4abm.org
+  color: "#00369f"
+
+"Frontiers4LCD@ICML":
+  url: https://frontiers4lcd.github.io
   color: "#00369f"
