@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: A growing collection of my research projects.
 nav: true
-# nav_order: 2
+nav_order: 2
 display_categories: [Optimization+AMoD, MARL+AMoD, Robust+MARL]
 horizontal: false
 ---
