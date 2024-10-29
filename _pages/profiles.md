@@ -47,10 +47,10 @@ Welcome to our team page! Below are all the current members in my group.
   Joined: Fall 2024   
   Background: MS@UTA, BE@MGM College of Engineering  
 
-<!-- - **Sakshi Vivek Kabadi**  
-  Research Area: AI for Research  
-  Joined: Fall 2024   
-  Background: MS@UTA, BE@University of Mumbai -->
+- **Sakshi Vivek Kabadi**  
+  Research Area: Machine Learning  
+  Joined: Fall 2024      
+  Background: MS@UTA, BE@University of Mumbai
 
 ---
 
